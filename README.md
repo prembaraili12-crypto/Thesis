@@ -1,4 +1,4 @@
-# Fraud Detection IN ONLINE TRANSACTION
+# Fraud Detection in Online Transaction
 ## Overview
 
 The repository presents my MSc thesis project which implements a system for detecting online financial transaction fraud. The project aims to create an intelligent system that detects fraudulent activities through its combination of machine learning deep learning and anomaly detection techniques. The system addresses real-world problems by dealing with class imbalance and evolving fraud patterns and producing accurate and comprehensible prediction results.
